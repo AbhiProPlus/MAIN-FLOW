@@ -1,2 +1,2 @@
 # MAIN-FLOW-
-Main flow internship tasks
+Main flow data science tasks
